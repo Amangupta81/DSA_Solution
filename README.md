@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Amangupta81/DSA_Solution/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amangupta81/DSA_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->

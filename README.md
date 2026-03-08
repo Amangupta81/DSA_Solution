@@ -19,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Amangupta81/DSA_Solution/tree/master/0141-linked-list-cycle) |
+| [1980-find-unique-binary-string](https://github.com/Amangupta81/DSA_Solution/tree/master/1980-find-unique-binary-string) |
 ## Array
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Amangupta81/DSA_Solution/tree/master/0075-sort-colors) |
+| [1980-find-unique-binary-string](https://github.com/Amangupta81/DSA_Solution/tree/master/1980-find-unique-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amangupta81/DSA_Solution/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amangupta81/DSA_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/Amangupta81/DSA_Solution/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amangupta81/DSA_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/Amangupta81/DSA_Solution/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->

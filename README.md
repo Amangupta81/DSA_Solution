@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Amangupta81/DSA_Solution/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/Amangupta81/DSA_Solution/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -61,5 +62,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Amangupta81/DSA_Solution/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Amangupta81/DSA_Solution/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->

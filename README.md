@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Amangupta81/DSA_Solution/tree/master/0343-integer-break) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Amangupta81/DSA_Solution/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Sliding Window
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Amangupta81/DSA_Solution/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Amangupta81/DSA_Solution/tree/master/1009-complement-of-base-10-integer) |
+## Math
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/Amangupta81/DSA_Solution/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->

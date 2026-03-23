@@ -68,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Amangupta81/DSA_Solution/tree/master/0009-palindrome-number) |
 | [0343-integer-break](https://github.com/Amangupta81/DSA_Solution/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->

@@ -70,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Amangupta81/DSA_Solution/tree/master/0009-palindrome-number) |
 | [0343-integer-break](https://github.com/Amangupta81/DSA_Solution/tree/master/0343-integer-break) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Amangupta81/DSA_Solution/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
